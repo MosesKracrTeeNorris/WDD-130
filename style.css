@@ -1,0 +1,81 @@
+:root {
+	--heading-background-color: #aaa;
+	--heading-text-color: #333;
+	--heading-font: 'Montserrat', 'Helvetica', 'sans-serif';
+	--padding: 1rem;
+	--border: 1px solid rgb(0 0 0 / 0.2);
+}
+
+h1 {
+	background-color: var(--heading-background-color);
+	color: var(--heading-text-color);
+	font-family: var(--heading-font);
+	padding: var(--padding);
+}
+
+aside {
+	margin: 10px auto;
+	padding: var(--padding);
+	box-shadow: 0 0 10px rgb(0 0 0 / 0.2 );
+}
+
+.callout {
+	max-width: 400px;
+	margin: 10px;
+	border: 2px solid rgba(17, 1, 1, 0.1);
+	padding: 15px;
+	background-color: #247;
+	color: #fff;
+}
+
+.callout img {
+	float: right;
+	margin: 0 0 10px 15px;
+	border: 2px solid #000;
+	padding: 3px;
+	background-color: #bbb;
+	width: 100px;
+	height: auto;
+	
+}
+
+blockquote {
+	margin: 0;
+}
+
+cite {
+	display: block;
+	border-top: 1px dotted #fff;
+	padding-top: 3px;
+	text-align: right;
+	font-size: smaller;
+}
+
+main {
+	max-width: 840px;
+}
+
+aside { 
+	width: 20rem;
+	margin: 1rem;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	padding: 1rem;
+	background-color: #eee;
+	color: #333;
+	text-align: center;
+}
+
+aside img {
+	width: 200px;
+	height: auto;
+}
+
+p {
+	padding: 0;
+}
+
+footer {
+	margin-top: 15px;
+	border-top: 1px solid #000;
+	text-align: center;
+}
