@@ -11,7 +11,7 @@ nav {
 	color: var(--heading-text-color);
 	font-family: var(--heading-font);
 	padding: var(--padding);
-	border-radius: 6px;
+	border-radius: 4px;
 }
 
 aside {
