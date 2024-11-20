@@ -106,8 +106,9 @@ aside h2 {
 	left: 150px;*/
 }
 
-header nav {
+header {
 	display: inline-block;
 	padding-top: 1rem;
 	padding-bottom: 1rem;
+	position: relative;
 }
