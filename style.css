@@ -88,7 +88,7 @@ footer {
 }
 /* Class Selector */ 
 
-.box {
+ .box {
    margin: 1rem;
    border: 1px solid rgb(0 0 0 / .1);
    padding: 1rem;
@@ -97,11 +97,11 @@ footer {
 }
 
 main image {
-	float: right;
+	float: none;
 }
 
 aside h2 {
-	position: relative;
+	position: absolute;
 	top: 40px;
 	left: 150px;
 }
