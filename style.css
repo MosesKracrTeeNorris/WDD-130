@@ -105,3 +105,9 @@ aside h2 {
 	/*top: 40px;
 	left: 150px;*/
 }
+
+header nav {
+	display: inline-block;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
