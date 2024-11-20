@@ -63,13 +63,13 @@ main {
 }
 
 aside { 
-	width: 20rem;
+	/*width: 20rem;*/
 	/*margin: 1rem;*/
 	border: 1px solid rgba(0, 0, 0, 0.2);
-	padding: 1rem;
+	/*padding: 1rem;*/
 	background-color: #eee;
 	color: #333;
-	text-align: center;
+	/*text-align: center;*/
 }
 
 aside img {
@@ -94,6 +94,11 @@ footer {
    padding: 1rem;
    background-color: #ddd;
    color: #000;	
+}
+
+aside {
+    width: 20rem;
+	text-align: center;
 }
 
 main image {
