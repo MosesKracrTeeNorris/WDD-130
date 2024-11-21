@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@200;400&family=Playfair+Display+SC:ital@1&family=Red+Hat+Display:wght@500&display=swap');
 :root {
-    background-color: rgba(32, 32, 210, 0.289);
+    background-color: #FB5607;
 	--heading-font: 'Montserrat', 'Helvetica', 'sans-serif';
 	--padding: 1rem;
 	--border: 1px solid rgb(0 0 0 / 0.2);
@@ -29,7 +29,7 @@
   height: 425px;
 }
 body {
-    background-color: orangered; 
+    background-color: none; 
 }
 
 * {
