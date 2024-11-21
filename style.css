@@ -106,7 +106,7 @@ main image {
 }
 
 aside h2 {
-	position: absolute;
+	position: relative;
 	/*top: 40px;*/
 	left: 150px;
 }
