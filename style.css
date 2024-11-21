@@ -13,7 +13,7 @@
 }
 
 nav {
-	background-color: gray;
+	background-color: rgba(216, 214, 237, 0.838);
 	color: var(--heading-text-color);
 	font-family: var(--heading-font);
 	padding: 2px;
