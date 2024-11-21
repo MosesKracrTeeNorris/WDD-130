@@ -102,11 +102,11 @@ aside {
 }
 
 main image {
-	float: none;
+	float: right;
 }
 
 aside h2 {
 	position: relative;
 	/*top: 40px;*/
-	left: 150px;
+	left: 15px;
 }
