@@ -13,10 +13,10 @@
 }
 
 nav {
-	background-color: rgba(216, 214, 237, 0.838);
+	background-color: rgb(239, 239, 243);
 	color: var(--heading-text-color);
 	font-family: var(--heading-font);
-	outline: none;
+	text-decoration: none;
 	padding: 2px;
 	border-radius: 4px;
 }
