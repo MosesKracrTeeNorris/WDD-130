@@ -39,7 +39,7 @@ body {
 }
 
 nav {
-	background-color: #1c6e8c;
+	background-color: #020f13;
 	/*color: var(--heading-text-color);
 	font-family: var(--heading-font);*/
 	box-sizing: border-box;
@@ -146,6 +146,6 @@ img {
 	float: center;
 	border: 2px solid#000;
 	box-sizing: border-box;
-	padding: auto;
+	padding: 4px;
 	border-radius: 4px;
 }
