@@ -42,7 +42,6 @@ nav {
 	background-color: rgba(239, 239, 243, 0.945);
 	color: var(--heading-text-color);
 	font-family: var(--heading-font);
-	margin: 0;
 	text-decoration: none;
 	padding: 1rem;
 	border-radius: 4px;
