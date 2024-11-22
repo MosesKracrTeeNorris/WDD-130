@@ -39,10 +39,10 @@ body {
 }
 
 nav {
-	background-color: rgba(239, 239, 243, 0.945);
+	/*background-color: rgba(239, 239, 243, 0.945);
 	color: var(--heading-text-color);
 	font-family: var(--heading-font);
-	text-decoration: none;
+	text-decoration: none;*/
 	border-radius: 4px;
 }
 
