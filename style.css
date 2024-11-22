@@ -142,8 +142,10 @@ aside h2 {
 
 img {
 	width: 200px;
-	height: auto;
+	height: 200px;
 	float: center;
-	border: #000;
-	border-radius: 2px;
+	border: 2px solid#000;
+	box-sizing: border-box;
+	padding: auto;
+	border-radius: 4px;
 }
